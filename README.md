@@ -12,7 +12,6 @@ ITS A SIMPLE STUDY PROJECT OF THE CONCEPTS: IF-ELSE, WHILE, FOR E LISTS.
 YOU CAN CHECK MY CODE ON GITHUB.
 HERES A VIDEO OF 'JOGO DA FORCA'.
 
-https://www.youtube.com/watch?v=g3bJpybWDRU
-
-Behance: https://www.behance.net/polifrenhan
-LinkedIn: https://www.linkedin.com/in/polifrenhan/
+- https://www.youtube.com/watch?v=g3bJpybWDRU
+- Behance: https://www.behance.net/polifrenhan
+- LinkedIn: https://www.linkedin.com/in/polifrenhan/
